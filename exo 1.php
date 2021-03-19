@@ -8,8 +8,8 @@ while ($z <= 10000) {
 }  
     else
 {
-   echo $z;
-   echo '<br />';
+   echo $z, '<br />', "\n";
+   
     $z++; 
 }
     
